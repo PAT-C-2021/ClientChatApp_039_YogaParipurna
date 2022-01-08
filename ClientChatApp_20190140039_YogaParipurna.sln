@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientChatApp_20190140039_YogaParipurna", "ClientChatApp_20190140039_YogaParipurna\ClientChatApp_20190140039_YogaParipurna.csproj", "{6A58CFC2-6F4B-4B58-ADEB-8D58833BDF08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A58CFC2-6F4B-4B58-ADEB-8D58833BDF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A58CFC2-6F4B-4B58-ADEB-8D58833BDF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A58CFC2-6F4B-4B58-ADEB-8D58833BDF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A58CFC2-6F4B-4B58-ADEB-8D58833BDF08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6906711C-1939-4D98-9609-231603EA49C8}
+	EndGlobalSection
+EndGlobal
